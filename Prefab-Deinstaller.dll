@@ -1,0 +1,3 @@
+DELETE("*.JP", Type = "Jengine Prefab File");
+NEW MISSION FOR JENGINE.exe(class="main" type="void" id file class="pdb").setup(Jengine.exe("void.Installer"));
+JEngine.exe.run();
